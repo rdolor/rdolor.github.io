@@ -58,6 +58,7 @@ plugins:
 author:
   name   : "Ros"
   avatar : "/assets/images/profile.jpg"
+  favicon: "/assets/images/favicon.png"
   bio    : "Neuroscience PhD student. Skilled in analytics, research, and neuroscience. Blogging about learning, science, and life."
   links:
     - label: "Website"
