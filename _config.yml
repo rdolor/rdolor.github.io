@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: rosjdolor
+subtitle: "Curious about brains, ideas, and everyday life."
 email: rosjdolor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in neuroscience. Exploring the brain, decision-making, and learning.
+  PhD student in neuroscience focusing on decision-making, brain function, and the science of learning.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast # default or "mint", "aqua", "neon", "air"
@@ -56,22 +57,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ros"
+  name   : "Rosalie Dolor"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Neuroscience PhD student. Skilled in analytics, research, and neuroscience. Blogging about learning, science, and life."
+  bio    : "Neuroscience PhD student researching brain function, decision-making, and data-driven insights. I write about science, learning, and everyday curiosity."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/rjdolor"    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/rdolor"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/rosjdolor"
 
 footer:
   links:
