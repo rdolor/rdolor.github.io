@@ -13,3 +13,4 @@ This site is a space for sharing my thoughts, writing short reflections, and con
 Outside of research, I also tutor English, Math, Statistics, and beginner programming online.
 
 📫 You can contact me at [rosjdolor@gmail.com]
+
