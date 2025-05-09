@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: rosjdolor
 email: rosjdolor@gmail.com
+favicon: "/assets/images/favicon.png"
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student in neuroscience. Exploring the brain, decision-making, and learning.
 twitter_username: username
@@ -58,7 +59,6 @@ plugins:
 author:
   name   : "Ros"
   avatar : "/assets/images/profile.jpg"
-  favicon: "/assets/images/favicon.png"
   bio    : "Neuroscience PhD student. Skilled in analytics, research, and neuroscience. Blogging about learning, science, and life."
   links:
     - label: "Website"
